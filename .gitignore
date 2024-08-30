@@ -1,0 +1,15 @@
+.vs/
+Debug/
+Release/
+x64/
+.o
+*.exe
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+comp
+*.tmp
+*.log
+*.bak
+*.swp

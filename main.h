@@ -1,0 +1,1 @@
+void DrawEnemy(Enemy  enemy[15], gamePhysics& game, SDL_LIB& lib, Surfaces& Surface, bullets& enemyBullet, Player& player, bullets& playerBullet, Objects  explosives[50]);
