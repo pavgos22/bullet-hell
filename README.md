@@ -40,7 +40,7 @@ The game consists of three levels, each offering unique challenges:
 - **SDL2 Integration**: The game is built using the <a href="https://www.libsdl.org/">SDL2 (2.0.3)</a> library for handling graphics, input, and events. 
 
 ## How to Build and Run
-1. Clone the repository
+1. Clone the repository or download the zip file.
 2. Ensure directory contains the libSDL2.a file (libSDL2-64.a when compiling a 64-bit version) and assets folder.
 3. Run main.cpp script or build the program in Visual Studio 2019 (recommended)
 
